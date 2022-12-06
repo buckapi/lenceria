@@ -1,4 +1,4 @@
-Lencerias Store/* Alices HTML Theme Shortcodes JS*/
+/* Alices HTML Theme Shortcodes JS*/
 /*
 1. trx_addons login JS
 2. Woocomerce JS

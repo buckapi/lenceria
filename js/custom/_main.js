@@ -1,4 +1,4 @@
-lencerias store    var TRX_ADDONS_STORAGE = {
+    var TRX_ADDONS_STORAGE = {
         "ajax_url": "#"
         , "ajax_nonce": "48cf6b534c"
         , "site_url": "http:\/\/alices-html.themerex.net"
